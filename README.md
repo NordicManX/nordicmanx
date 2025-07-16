@@ -3,11 +3,11 @@
 ### Desenvolvedor de Software & Estudante de Computação
 
 <p align="left">
-  Sou um desenvolvedor e estudante de Computação na Universidade Tecnológica Federal do Paraná (UTFPR), apaixonado por tecnologia e pela criação de soluções inovadoras. Minha jornada profissional me proporcionou experiências valiosas em suporte técnico, operações de TI e desenvolvimento de software.
+  Sou dev e estudante de Computação na UTFPR, apaixonado por tecnologia e por transformar ideias em soluções que funcionam de verdade. Tô em transição de carreira — já atuei com suporte técnico e operações de TI, o que me deu uma base sólida pra entender problemas e pensar em soluções. Agora, tô focado no desenvolvimento e já venho botando a mão no código há um tempo, aprendendo na prática como entregar valor como desenvolvedor.
 </p>
 
 <p align="left">
-  Com foco em boas práticas como SOLID e Clean Code, busco sempre entregar software de alto valor para o cliente. Sou proativo, adoro trabalhar em equipe e estou sempre buscando novos desafios para aplicar e expandir minhas habilidades técnicas. Atualmente, procuro oportunidades para crescer como desenvolvedor e contribuir em projetos desafiadores.
+  Curto seguir boas práticas como SOLID e Clean Code pra entregar software de qualidade e que realmente faça a diferença pro cliente. Sou bem proativo, gosto de trabalhar em equipe e tô sempre atrás de novos desafios pra aprender mais e evoluir como dev. No momento, tô em busca de oportunidades onde eu possa crescer na área e contribuir em projetos que me desafiem de verdade.
 </p>
 
 ---
