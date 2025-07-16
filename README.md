@@ -4,7 +4,7 @@
 ### 💻 Desenvolvedor de Software & Estudante de Computação
 
 <p align="left">
-  Sou dev e estudante de Computação na UTFPR, apaixonado por tecnologia e por transformar ideias em soluções que funcionam de verdade. Tô em transição de carreira — já atuei com suporte técnico e operações de TI, o que me deu uma base sólida pra entender problemas e pensar em soluções. Agora, tô focado no desenvolvimento e já venho botando a mão no código há um tempo, aprendendo na prática como entregar valor como desenvolvedor.
+  Sou dev e estudante de Computação na UTFPR, apaixonado por tecnologia e por transformar ideias em soluções que funcionam de verdade. Tô em transição de carreira já atuei com suporte técnico e operações de TI, o que me deu uma base sólida pra entender problemas e pensar em soluções. Agora, tô focado no desenvolvimento e já venho botando a mão no código há um tempo, aprendendo na prática como entregar valor como desenvolvedor.
 </p>
 
 <p align="left">
