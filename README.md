@@ -65,11 +65,11 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub (Rápida & Estável)
 
 <p align="center">
   <a href="https://github.com/nordicmanx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nordicmanx&show_icons=true&theme=radical&cache_seconds=3600"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nordicmanx&layout=compact&theme=radical&cache_seconds=3600"/>
+    <img height="180em" src="https://stats-fast-api.vercel.app/api?username=nordicmanx&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://stats-fast-api.vercel.app/api/top-langs/?username=nordicmanx&layout=compact&theme=dark"/>
   </a>
 </p>
