@@ -1,16 +1,29 @@
 # Olá! Eu sou o Nelson Antônio de Carvalho Filho 👋  
-## (mas pode me chamar de **NordicManX** 😄)
+## (mas pode me chamar de NordicManX 👽)
 
 ### 💻 Desenvolvedor de Software & Estudante de Computação
 
 <p align="left">
-  Sou dev e estudante de Computação na UTFPR, apaixonado por tecnologia e por transformar ideias em soluções que funcionam de verdade. Tô em transição de carreira já atuei com suporte técnico e operações de TI, o que me deu uma base sólida pra entender problemas e pensar em soluções. Agora, tô focado no desenvolvimento e já venho botando a mão no código há um tempo, aprendendo na prática como entregar valor como desenvolvedor.
+  Estudante de Ciência da Computação na UTFPR(previsão 2027) em transição de carreira para desenvolvimento de software. Já atuei com suporte técnico em sistemas críticos, troubleshooting, integrações e análise de fluxos, experiência que me deu visão prática de operações e resolução de problemas reais.
 </p>
 
 <p align="left">
-  Curto seguir boas práticas como SOLID e Clean Code pra entregar software de qualidade e que realmente faça a diferença pro cliente. Sou bem proativo, gosto de trabalhar em equipe e tô sempre atrás de novos desafios pra aprender mais e evoluir como dev. No momento, tô em busca de oportunidades onde eu possa crescer na área e contribuir em projetos que me desafiem de verdade.
+ Agora tô mão na massa com Next.js, React, TypeScript, Tailwind, Node.js, Supabase e projetos full-stack próprios.
 </p>
 
+<p align="left">
+O que busco: Oportunidades para crescer como dev, trabalhar em equipe, aprender com desafios reais e contribuir em projetos que impactam.
+</p>
+
+<p align="left">
+  Por que eu? 
+  <p align="left">
+    Base sólida em TI + paixão por código
+  </p>
+  
+ <p align="left">
+   Proativo, organizado e focado em resultados
+</p>
 ---
 
 ### 📫 Conecte-se comigo
