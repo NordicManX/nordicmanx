@@ -4,7 +4,7 @@
 ### 💻 Desenvolvedor de Software & Estudante de Computação
 
 <p align="left">
-  Estudante de Ciência da Computação na UTFPR(previsão 2027) em transição de carreira para desenvolvimento de software. Já atuei com suporte técnico em sistemas críticos, troubleshooting, integrações e análise de fluxos, experiência que me deu visão prática de operações e resolução de problemas reais.
+  Estudante da Computação na UTFPR(previsão 2027) em transição de carreira para desenvolvimento de software. Já atuei com suporte técnico em sistemas críticos, troubleshooting, integrações e análise de fluxos, experiência que me deu visão prática de operações e resolução de problemas reais.
 </p>
 
 <p align="left">
